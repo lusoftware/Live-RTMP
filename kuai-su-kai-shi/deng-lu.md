@@ -2,6 +2,8 @@
 
 您可以通过企业邮箱或微信扫码登录 Hippo
 
+<video src="https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.webm" controls></video>
+
 如果您没有登录权限，点击「登录」后会跳转到错误页面
 
 ![](../.gitbook/assets/401.png)
